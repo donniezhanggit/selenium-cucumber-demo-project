@@ -6,7 +6,7 @@ Then click *Sign in* button (in the header)
 
 
 Scenario: In order to verify successfull signup with valid details
-Given customer enter valid email address "anthonyroi1234@test.com"
+Given customer enter valid email address "anthonyroi123@test.com"
 Then click on Create An Account button
 Then enter valid account details as 
 |	Title	|	FirstName	| LastName	|	Password	| DOB					|	Company				| Address1		|Address2		| City		| State			| ZipCode		|	AdditionatInfo	| HomePhone	 | MobilePhone	|	AssignAddress_Alis	|
