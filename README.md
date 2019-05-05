@@ -2,7 +2,7 @@
 E-commerce site automation test cases in cucumber BDD
 
 <b>Running code locally</b><br>
-git clone https://github.com/nahmedsoftsource/selenium-cucumber-demo-project.git
+git clone https://github.com/nahmedsoftsource/selenium-datadriven-demo.git
 
 <br>
 Import as existing maven project in eclipse. 
@@ -20,11 +20,9 @@ Right click on project then select <b>Run as -> Maven test</b>
 <br>
 <br>
 <b>Reports</b>
-After running project successfully, right click and refresh project, it will show three types of reports, you can view in /target folder
+After running project successfully, right click and refresh project, it will show Maven Surefire Report, you can view in /target folder
 <br>
-1. Extent Report <br>
-2. Cucumber Report <br>
-3. Maven Surefire Report
+
 
 <br>
 <br>
